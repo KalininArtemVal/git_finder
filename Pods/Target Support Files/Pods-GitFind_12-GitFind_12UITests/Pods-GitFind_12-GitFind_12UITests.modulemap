@@ -1,0 +1,6 @@
+framework module Pods_GitFind_12_GitFind_12UITests {
+  umbrella header "Pods-GitFind_12-GitFind_12UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
